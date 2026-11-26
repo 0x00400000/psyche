@@ -1,2 +1,0 @@
-# psyche
-An Infornography tool
